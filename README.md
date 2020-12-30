@@ -9,19 +9,6 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 - 📫 How to reach me **mukeshsuthar336@gmail.com**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-🌆 Daytime    87 commits     ███████░░░░░░░░░░░░░░░░░░   30.96% 
-🌃 Evening    149 commits    █████████████░░░░░░░░░░░░   53.02% 
-🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
