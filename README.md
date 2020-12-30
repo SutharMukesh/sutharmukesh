@@ -8,6 +8,7 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 - 📫 How to reach me **mukeshsuthar336@gmail.com**
 
+---
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -22,5 +23,5 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
-----
+---
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sutharmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="sutharmukesh" /> </p>
