@@ -10,20 +10,20 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs               █████████████████████████   99.67 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript               3 hrs 32 mins       █████████████████████████   99.63 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2023 01:38:57 UTC
+ Last Updated on 11/06/2023 01:55:15 UTC
 <!--END_SECTION:waka-->
