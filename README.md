@@ -10,7 +10,7 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,5 +27,5 @@ Mac                      10 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 17/06/2023 01:36:39 UTC
+ Last Updated on 18/06/2023 01:53:47 UTC
 <!--END_SECTION:waka-->
