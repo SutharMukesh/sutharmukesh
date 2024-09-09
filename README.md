@@ -10,22 +10,6 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C128%20hrs%206%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               7 hrs 42 mins       █████████████████████░░░░   85.91 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Mac                      8 hrs 58 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/09/2024 00:27:44 UTC
+ Last Updated on 09/09/2024 00:26:18 UTC
 <!--END_SECTION:waka-->
