@@ -16,13 +16,12 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████░░░░   83.56 % 
-JavaScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/02/2025 00:28:48 UTC
+ Last Updated on 18/02/2025 00:26:41 UTC
 <!--END_SECTION:waka-->
