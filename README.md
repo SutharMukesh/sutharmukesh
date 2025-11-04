@@ -10,16 +10,6 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 03/11/2025 00:32:51 UTC
+ Last Updated on 04/11/2025 00:30:57 UTC
 <!--END_SECTION:waka-->
