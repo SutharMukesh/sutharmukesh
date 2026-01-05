@@ -10,6 +10,18 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C225%20hrs%2057%20mins-blue)
 
- Last Updated on 04/01/2026 00:38:49 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 05/01/2026 00:37:45 UTC
 <!--END_SECTION:waka-->
