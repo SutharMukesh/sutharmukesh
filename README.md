@@ -10,6 +10,8 @@ Hi, I'm a Web Developer who spends his time with the backend while getting lured
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C022%20hrs%2014%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -27,5 +29,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 03:14:31 UTC
+ Last Updated on 30/07/2026 02:47:18 UTC
 <!--END_SECTION:waka-->
